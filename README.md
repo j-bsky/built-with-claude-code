@@ -33,7 +33,7 @@ Shell bench moving through gold, green, and orange.
 
 
 Elestruct: an all-in-one procedural authoring suite. SDF-based 3D modeling and noise authoring using graph nodes, that can be rigged, animated, and placed into a level/world editor, with export options available at each stage.
-Status: Godot 4, ten milestones complete, 2,300+ tests
+Status: Godot 4, ten milestones complete, 2,300+ tests, with an [engine purity test sample uploaded here](code-samples/test_engine_purity.gd) 
 
 
 Mazony: a Rust and wgpu re-authoring of two Godot procedural-graphics addons (that also served as the foundations for Elestruct) plus an audio/visual signal bridge, intended as the graphics foundation for a planned DAW where the payoff is “texture-as-oscillator”
