@@ -3,6 +3,8 @@ Projects I built with Claude Code as a non-engineer, with demos, workflow write-
 
 ---
 
+<br>
+
 Circling a shed, then entering a non-Euclidean hall.
 
 <img width="640" height="360" alt="portal-bigger-inside" src="https://github.com/user-attachments/assets/191ff265-1ab4-4221-884e-ef34c231a723" />
