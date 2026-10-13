@@ -66,6 +66,10 @@ Level tab, where the assets from Structura are then added to a level/world build
 Mazony: a Rust and wgpu re-authoring of two Godot procedural-graphics addons (that also served as the foundations for Elestruct) plus an audio/visual signal bridge, intended as the graphics foundation for a planned DAW where the payoff is “texture-as-oscillator”
 Status: Rust and wgpu, all migration phases complete plus the studio UI
 
+
+https://github.com/user-attachments/assets/1a9b5197-fbe2-43dd-b425-f549463f1ea5
+
+
 ---
 
 ShortCircuit: a deck-building roguelike where every hand is a real circuit on a simulated breadboard so as to function as a game that also teaches the player real electronics/circuitry
