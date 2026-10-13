@@ -81,6 +81,7 @@ a Rust and wgpu re-authoring of two Godot procedural-graphics addons (that also 
 
 Status: Rust and wgpu, all migration phases complete plus the studio UI
 
+Screen recording showing the audio/visual signal bridge in action, with sound.
 
 https://github.com/user-attachments/assets/1a9b5197-fbe2-43dd-b425-f549463f1ea5
 
@@ -92,6 +93,7 @@ a deck-building roguelike where every hand is a real circuit on a simulated brea
 
 Status: Godot 4, early prototype
 
+Screen recording showing the board layout and other mechanics/functionality.
 
 https://github.com/user-attachments/assets/6e793362-a7ac-4af1-b669-b5bbbd56c793
 
