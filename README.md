@@ -35,13 +35,18 @@ Shell bench moving through gold, green, and orange.
 Elestruct: an all-in-one procedural authoring suite. SDF-based 3D modeling and noise authoring using graph nodes, that can be rigged, animated, and placed into a level/world editor, with export options available at each stage.
 Status: Godot 4, ten milestones complete, 2,300+ tests, with an [engine purity test sample uploaded here](code-samples/test_engine_purity.gd) 
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 58 AM" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 23 AM" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
+
+<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 36 44 AM" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
+
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 37 56 AM" src="https://github.com/user-attachments/assets/c5269458-ade3-4a78-9620-d27d435e2266" />
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 36 44 AM" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
+
+<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 23 AM" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 58 AM" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
 
 
 
