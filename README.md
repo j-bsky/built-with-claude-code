@@ -34,13 +34,17 @@ a music/color/non-Euclidean (seamless portals; rooms bigger inside than out) exp
 
 Status: Godot 4, milestones M0-M4 complete, two zones playable, ~600 tests
 
+Shell bench moving through teal, purple, magenta, and blue.
+
 <img width="560" height="316" alt="6-shell-bench-colour-a" src="https://github.com/user-attachments/assets/efcfa21e-1b39-47d4-b422-6c74d4ad072d" />
 
-Shell bench moving through teal, purple, magenta, and blue.
+Shell bench moving through gold, green, and orange.
 
 <img width="560" height="316" alt="7-shell-bench-colour-b" src="https://github.com/user-attachments/assets/3dfd142e-78c7-4731-8b30-64d84d3be428" />
 
-Shell bench moving through gold, green, and orange.
+Shell bench with audio; color follows the detected key as music moves.
+
+https://github.com/user-attachments/assets/3720ce49-b68d-4399-87fd-235b59986fea
 
 ---
 
