@@ -9,7 +9,7 @@ Circling a shed, then entering a non-Euclidean hall.
 
 <img width="640" height="360" alt="portal-bigger-inside" src="https://github.com/user-attachments/assets/191ff265-1ab4-4221-884e-ef34c231a723" />
 
-<br>
+&nbsp;
 
 The Chapel seen through the portal from the dark hub, then stepping in.
 
@@ -44,13 +44,13 @@ Shell bench moving through teal, purple, magenta, and blue.
 
 <img width="560" height="316" alt="6-shell-bench-colour-a" src="https://github.com/user-attachments/assets/efcfa21e-1b39-47d4-b422-6c74d4ad072d" />
 
-<br>
+&nbsp;
 
 Shell bench moving through gold, green, and orange.
 
 <img width="560" height="316" alt="7-shell-bench-colour-b" src="https://github.com/user-attachments/assets/3dfd142e-78c7-4731-8b30-64d84d3be428" />
 
-<br>
+&nbsp;
 
 Shell bench with audio; color follows the detected key as music moves.
 
@@ -69,43 +69,43 @@ Blank Elestruct project file.
 
 <img width="1440" height="900" alt="Blank project file" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
 
-<br>
+&nbsp;
 
 Preview on the right and selected-node options on the bottom.
 
 <img width="1440" height="900" alt="Preview and node options" src="https://github.com/user-attachments/assets/c5269458-ade3-4a78-9620-d27d435e2266" />
 
-<br>
+&nbsp;
 
 Showcase of options to remove, disconnect connections, disconnect output, extract from chain, and available nodes to replace the selected node with.
 
 <img width="1440" height="900" alt="Showcase of node options on right-click" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
 
-<br>
+&nbsp;
 
 Replacing smooth union with smooth subtraction.
 
 <img width="1440" height="900" alt="Replacing combining node chained to output" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
 
-<br>
+&nbsp;
 
 Noise generation tab.
 
 <img width="1440" height="900" alt="Noise tab" src="https://github.com/user-attachments/assets/7d1093d5-d12e-4d1e-b309-2e3b238e6c3a" />
 
-<br>
+&nbsp;
 
 Structura tab, where elements built with SDF and textured with Noise are combined using splines and grammars among other procedural generation algorithms to create larger, usable assets & asset packs.
 
 <img width="1440" height="900" alt="Structura tab" src="https://github.com/user-attachments/assets/4baf446e-70d2-47d3-b831-8279433409a4" />
 
-<br>
+&nbsp;
 
 Level tab, where the assets from Structura are then added to a level/world builder, with granular control, editing, and placement capabilities to build a finished level/region/world out using the Elestruct suite from start to finish.
 
 <img width="1440" height="900" alt="Level tab" src="https://github.com/user-attachments/assets/c4e29e4c-0bcd-4d0e-af13-5b9c99ebd86a" />
 
-<br>
+&nbsp;
 
 ---
 
