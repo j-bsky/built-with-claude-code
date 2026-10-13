@@ -120,6 +120,9 @@ Screen recording showing the audio/visual signal bridge in action, with sound.
 
 https://github.com/user-attachments/assets/1a9b5197-fbe2-43dd-b425-f549463f1ea5
 
+&nbsp;
+
+The [migration spec](code-samples/MIGRATION_SPEC.md) revealing architecture, a phase plan, a risk table, and research-validated decisions, was written with Claude and has since been carried out. 
 
 ---
 
