@@ -39,14 +39,19 @@ Status: Godot 4, ten milestones complete, 2,300+ tests, with an [engine purity t
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 36 44 AM" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
 
+Blank Elestruct project file.
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 37 56 AM" src="https://github.com/user-attachments/assets/c5269458-ade3-4a78-9620-d27d435e2266" />
 
+Preview on the right and selected-node options on the bottom.
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 23 AM" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
 
+Showcase of options to remove, disconnect connections, disconnect output, extract from chain, and available nodes to replace the selected node with.
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 58 AM" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
+
+Replacing smooth union with smooth subtraction.
 
 
 
