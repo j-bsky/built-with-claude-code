@@ -58,9 +58,10 @@ Noise generation tab.
 
 <img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 51 34 AM" src="https://github.com/user-attachments/assets/4baf446e-70d2-47d3-b831-8279433409a4" />
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 52 35 AM" src="https://github.com/user-attachments/assets/c4e29e4c-0bcd-4d0e-af13-5b9c99ebd86a" />
-
 Structura tab, where elements built with SDF and textured with Noise are combined using splines and grammars among other procedural generation algorithms to create larger, usable assets & asset packs.
+
+<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 52 35 AM" src="https://github.com/user-attachments/assets/c4e29e4c-0bcd-4d0e-af13-5b9c99ebd86a" />
+Level tab, where the assets from Structura are then added to a level/world builder, with granular control, editing, and placement capabilities to build a finished level/region/world out using the Elestruct suite from start to finish.
 
 
 Mazony: a Rust and wgpu re-authoring of two Godot procedural-graphics addons (that also served as the foundations for Elestruct) plus an audio/visual signal bridge, intended as the graphics foundation for a planned DAW where the payoff is “texture-as-oscillator”
