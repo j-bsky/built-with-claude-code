@@ -1,23 +1,31 @@
 # built-with-claude-code
 Projects I built with Claude Code as a non-engineer, with demos, workflow write-ups, and session excerpts.
 
-<img width="640" height="360" alt="1-portal-bigger-inside" src="https://github.com/user-attachments/assets/191ff265-1ab4-4221-884e-ef34c231a723" />
+<img width="640" height="360" alt="portal-bigger-inside" src="https://github.com/user-attachments/assets/191ff265-1ab4-4221-884e-ef34c231a723" />
 
 Circling a shed, then entering a non-Euclidean hall.
 
-<img width="640" height="360" alt="5-entering-the-chapel" src="https://github.com/user-attachments/assets/21e4bab2-9db2-4f2a-b2b2-9d091a941e3f" />
+<img width="640" height="360" alt="entering-the-chapel" src="https://github.com/user-attachments/assets/21e4bab2-9db2-4f2a-b2b2-9d091a941e3f" />
 
 The Chapel seen through the portal from the dark hub, then stepping in.
 
 
 
-About
+## About
 
 My name is John and I’m a musician with a bachelor’s degree in Business and Marketing, and I studied literature and languages at the Sorbonne. I’m fluent in English and French, understand Russian natively though I don’t speak it well, and I get by in Spanish. I am not an engineer by background, but I began learning software development 2 years ago, and have spent the past year working on a number of projects by directing & managing a number of Claude Code sessions that run in parallel. The source for my projects is private because I currently plan to sell the software, apps, and games. Access to the source/zip snapshots is available to reviewers upon request.
 
 ---
 
-Projects
+## How I work
+
+- [Workflow write-up](workflow/workflow-write-up.md): spec first, parallel sessions, and how I verify AI-written code.
+- [Session transcript](workflow/session-briefing-transcript.md): one session briefing another, uncut.
+- [Engine purity test](code-samples/test_engine_purity.gd): a test from elestruct that fails if engine code ever depends on the editor.
+
+---
+
+## Projects
 
 Kaleidophone: a music/color/non-Euclidean (seamless portals; rooms bigger inside than out) exploration game where pitch maps deterministically to color.
 Status: Godot 4, milestones M0-M4 complete, two zones playable, ~600 tests
@@ -35,30 +43,31 @@ Shell bench moving through gold, green, and orange.
 Elestruct: an all-in-one procedural authoring suite. SDF-based 3D modeling and noise authoring using graph nodes, that can be rigged, animated, and placed into a level/world editor, with export options available at each stage.
 Status: Godot 4, ten milestones complete, 2,300+ tests, with an [engine purity test sample uploaded here](code-samples/test_engine_purity.gd) 
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 36 44 AM" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
+<img width="1440" height="900" alt="Blank project file" src="https://github.com/user-attachments/assets/6462a2a9-a94a-4291-8312-ea00f9de8e76" />
 
 Blank Elestruct project file.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 37 56 AM" src="https://github.com/user-attachments/assets/c5269458-ade3-4a78-9620-d27d435e2266" />
+<img width="1440" height="900" alt="Preview and node options" src="https://github.com/user-attachments/assets/c5269458-ade3-4a78-9620-d27d435e2266" />
 
 Preview on the right and selected-node options on the bottom.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 23 AM" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
+<img width="1440" height="900" alt="Showcase of node options on right-click" src="https://github.com/user-attachments/assets/f190ce27-a0b3-4b12-9fdc-f3b92ed8d6aa" />
 
 Showcase of options to remove, disconnect connections, disconnect output, extract from chain, and available nodes to replace the selected node with.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 38 58 AM" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
+<img width="1440" height="900" alt="Replacing combining node chained to output" src="https://github.com/user-attachments/assets/c7196f91-7059-4563-9682-6d366161aaad" />
 
 Replacing smooth union with smooth subtraction.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 46 43 AM" src="https://github.com/user-attachments/assets/7d1093d5-d12e-4d1e-b309-2e3b238e6c3a" />
+<img width="1440" height="900" alt="Noise tab" src="https://github.com/user-attachments/assets/7d1093d5-d12e-4d1e-b309-2e3b238e6c3a" />
 Noise generation tab.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 51 34 AM" src="https://github.com/user-attachments/assets/4baf446e-70d2-47d3-b831-8279433409a4" />
+<img width="1440" height="900" alt="Structura tab" src="https://github.com/user-attachments/assets/4baf446e-70d2-47d3-b831-8279433409a4" />
 
 Structura tab, where elements built with SDF and textured with Noise are combined using splines and grammars among other procedural generation algorithms to create larger, usable assets & asset packs.
 
-<img width="1440" height="900" alt="Screenshot 2026-10-11 at 8 52 35 AM" src="https://github.com/user-attachments/assets/c4e29e4c-0bcd-4d0e-af13-5b9c99ebd86a" />
+<img width="1440" height="900" alt="Level tab" src="https://github.com/user-attachments/assets/c4e29e4c-0bcd-4d0e-af13-5b9c99ebd86a" />
+
 Level tab, where the assets from Structura are then added to a level/world builder, with granular control, editing, and placement capabilities to build a finished level/region/world out using the Elestruct suite from start to finish.
 
 ---
